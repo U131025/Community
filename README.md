@@ -1,6 +1,3 @@
----
-typora-copy-images-to: ./res
----
 
 ## iOS自分发包说明
 
