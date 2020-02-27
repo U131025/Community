@@ -10,5 +10,5 @@ url后为manifest.plist文件下载路径
 
 **下载二维码**
 
-![download](/Users/mac/Desktop/Github/Community/res/download.png)
+![下载地址：](https://github.com/U131025/Community/raw/master/res/download.png)
 
